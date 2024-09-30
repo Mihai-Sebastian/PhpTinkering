@@ -1,4 +1,3 @@
-<body>
 <h1>
     <?php
     echo $greeting . " World!<br>";
@@ -39,4 +38,3 @@
     <?php endforeach; ?>
 </ul>
 <p> Agafem la peli 3: <?= $films[2]['name'] ?></p>
-</body>
